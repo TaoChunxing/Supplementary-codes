@@ -1,0 +1,40 @@
+===================
+System requirements
+===================
+1) All software dependencies and operating systems (including version numbers): 
+   - Windows XP and later (including 64-bit versions of Windows) on ix86 and x86_64 chips.
+2) Versions the software has been tested on:
+   - R (version 4.3.1) and RStudio (version 2024.09.0-375).
+3) Any required non-standard hardware:
+   - None.
+
+For more details, please refer to:
+- https://cran.r-project.org/bin/windows/base/old/4.3.1/
+- https://cran.r-project.org/bin/windows/base/old/4.3.1/README.R-4.3.1
+
+===================
+Installation guide
+===================
+1) Instructions:
+   Install and run **R (version 4.3.1)** and **RStudio (version 2024.09.0-375)**, then open and run the R code file named 'R code.R' from top to bottom. All codes for this study were written in R, and we did not develop any proprietary software.
+   - **R (version 4.3.1)** can be downloaded from: https://cran.r-project.org/bin/windows/base/old/4.3.1/.
+   - **RStudio (version 2024.09.0-375)** and its corresponding guide can be downloaded from: https://docs.posit.co/connect/2023.06.0/user/.
+2) Typical install time: around 10 minutes.
+
+===================
+Demo
+===================
+1) Instructions to run on data:
+   Provided in the R code file named 'R code.R'.
+2) Expected output:
+   Mainly the results of this study.
+3) Expected run time for demo on a "normal" desktop computer:
+   Around 1-10 minutes.
+   
+   NOTE: Only the simulated dataset ("data.xlsx","data.figure 2," and "data.figure 3") is provided for testing the codes. The raw data that support the findings of this study are not publicly available for confidentiality reasons, as these patients may be re-identified through various techniques, such as data linkage or combining datasets. The processed data are available on reasonable request to the corresponding author, LBY, with each request subject to ethical and legislative review from the respective data sources.
+
+===================
+Instructions for use
+===================
+1) How to run the software on your data:
+   Install and run **R (version 4.3.1)** and **RStudio (version 2024.09.0-375)**, then open and run the R code file named 'R code.R' from top to bottom.
